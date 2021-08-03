@@ -258,6 +258,11 @@ header{
     height: 100%;
 }
 
+.btnContact{
+    border:none;
+    cursor: pointer;
+}
+
 /*-----------------------------------------Footer------------------------------*/
 footer{
     background-color: #141d27;
